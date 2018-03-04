@@ -115,7 +115,7 @@
     <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea><br><br>
 
-    <input class="uk-text-center" type="submit" value="Submit"><br><br>
+    <input class="uk-text-center uk-button-primary" type="submit" value="Submit"><br><br>
 
   </form>
 </div><br>
